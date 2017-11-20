@@ -1,2 +1,2 @@
-# economia-solidaria
+# Economia solidaria
 Projeto sobre economia solidária
